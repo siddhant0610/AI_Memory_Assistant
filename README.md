@@ -10,7 +10,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/extensions/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <br />
 
@@ -458,7 +458,7 @@ Cited response with links back to original memories
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a PR.
+Contributions are welcome! Please read [CONTRIBUTING.md](https://github.com/siddhant0610/memorylane-ai/blob/main/CONTRIBUTING.md) before submitting a PR.
 
 ```bash
 # Fork → Clone → Create branch → Make changes → PR
@@ -469,14 +469,6 @@ git checkout -b feature/your-feature-name
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](https://opensource.org/licenses/MIT) for details.
 
 ---
-
-<div align="center">
-
-Built with ❤️ to fight tab overload and digital amnesia.
-
-**[Report Bug](https://github.com/yourusername/memorylane-ai/issues)** · **[Request Feature](https://github.com/yourusername/memorylane-ai/issues)** · **[Discussions](https://github.com/yourusername/memorylane-ai/discussions)**
-
-</div>
